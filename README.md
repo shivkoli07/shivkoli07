@@ -143,7 +143,7 @@ Personal portfolio showcasing my work as a full-stack developer & data analyst �
 
 <br/>
 
-*More projects in progress — check my [repositories](https://github.com/shivkoli07?tab=repositories) for the full list.*
+*For more projects — check my [repositories](https://github.com/shivkoli07?tab=repositories) for the full list.*
 
 </td>
 </tr>
