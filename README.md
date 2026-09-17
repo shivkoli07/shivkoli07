@@ -159,7 +159,7 @@ Personal portfolio showcasing my work as a full-stack developer & data analyst �
 - 💼 **JP Morgan Chase — Software Engineering Job Simulation** (Forage)
 - 🚀 Building for **Smart India Hackathon (SIH) 2026** — two problem statements: *BharatYatra* (SIH26204) and *VirasatSetu* (SIH26197)
 - 🌍 Completed the **1M1B "AI for Sustainability"** virtual internship
-- 🌍 Completed the **DecodeLabs "Artificial & Machine Learning"** virtual internship
+- 🌍 Completed the **DecodeLabs "Artificial Intelligence & Machine Learning"** virtual internship
 - 🌍 Completed the **Pega Industries"Green AI"** virtual internship
 
 ---
